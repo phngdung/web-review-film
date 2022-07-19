@@ -8,7 +8,7 @@ import Typography from "@material-ui/core/Typography";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import { Helmet } from "react-helmet";
 
-const tmdb_api_key = ""; //Your TMDB API KEY
+const tmdb_api_key = "32f8536c291f6f7caf302e318e0aee9d"; //Your TMDB API KEY
 
 const useStyles = makeStyles((theme) => ({
   list: {

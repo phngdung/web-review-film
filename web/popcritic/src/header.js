@@ -149,7 +149,7 @@ export default function SearchAppBar() {
           ) : (
             <Button
               variant="contained"
-              href="http://localhost:3000/login"
+              href="http://localhost:8080/login"
               className={classes.login}
             >
               Log In
